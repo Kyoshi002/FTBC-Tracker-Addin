@@ -10,9 +10,9 @@
   <DefaultLocale>en-US</DefaultLocale>
   <DisplayName DefaultValue="Track Request" />
   <Description DefaultValue="Tag the open email for the Engineer Request Tracker." />
-  <IconUrl DefaultValue="https://REPLACE_WITH_PAGES_URL/assets/icon-32.png" />
-  <HighResolutionIconUrl DefaultValue="https://REPLACE_WITH_PAGES_URL/assets/icon-80.png" />
-  <SupportUrl DefaultValue="https://REPLACE_WITH_PAGES_URL/" />
+  <IconUrl DefaultValue="https://kyoshi002.github.io/FTBC-Tracker-Addin/assets/icon-32.png" />
+  <HighResolutionIconUrl DefaultValue="https://kyoshi002.github.io/FTBC-Tracker-Addin/assets/icon-80.png" />
+  <SupportUrl DefaultValue="https://kyoshi002.github.io/FTBC-Tracker-Addin/" />
   <AppDomains></AppDomains>
   <Hosts>
     <Host Name="Mailbox" />
@@ -25,7 +25,7 @@
   <FormSettings>
     <Form xsi:type="ItemRead">
       <DesktopSettings>
-        <SourceLocation DefaultValue="https://REPLACE_WITH_PAGES_URL/commands.html" />
+        <SourceLocation DefaultValue="https://kyoshi002.github.io/FTBC-Tracker-Addin/commands.html" />
       </DesktopSettings>
     </Form>
   </FormSettings>
@@ -72,12 +72,12 @@
     </Hosts>
     <Resources>
       <bt:Images>
-        <bt:Image id="Icon.16x16" DefaultValue="https://REPLACE_WITH_PAGES_URL/assets/icon-16.png" />
-        <bt:Image id="Icon.32x32" DefaultValue="https://REPLACE_WITH_PAGES_URL/assets/icon-32.png" />
-        <bt:Image id="Icon.80x80" DefaultValue="https://REPLACE_WITH_PAGES_URL/assets/icon-80.png" />
+        <bt:Image id="Icon.16x16" DefaultValue="https://kyoshi002.github.io/FTBC-Tracker-Addin/assets/icon-16.png" />
+        <bt:Image id="Icon.32x32" DefaultValue="https://kyoshi002.github.io/FTBC-Tracker-Addin/assets/icon-32.png" />
+        <bt:Image id="Icon.80x80" DefaultValue="https://kyoshi002.github.io/FTBC-Tracker-Addin/assets/icon-80.png" />
       </bt:Images>
       <bt:Urls>
-        <bt:Url id="Commands.Url" DefaultValue="https://REPLACE_WITH_PAGES_URL/commands.html" />
+        <bt:Url id="Commands.Url" DefaultValue="https://kyoshi002.github.io/FTBC-Tracker-Addin/commands.html" />
       </bt:Urls>
       <bt:ShortStrings>
         <bt:String id="GroupLabel" DefaultValue="Tracker" />

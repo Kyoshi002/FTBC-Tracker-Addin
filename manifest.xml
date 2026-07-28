@@ -13,7 +13,6 @@
   <IconUrl DefaultValue="https://kyoshi002.github.io/FTBC-Tracker-Addin/assets/icon-32.png" />
   <HighResolutionIconUrl DefaultValue="https://kyoshi002.github.io/FTBC-Tracker-Addin/assets/icon-80.png" />
   <SupportUrl DefaultValue="https://kyoshi002.github.io/FTBC-Tracker-Addin/" />
-  <AppDomains></AppDomains>
   <Hosts>
     <Host Name="Mailbox" />
   </Hosts>
@@ -26,6 +25,7 @@
     <Form xsi:type="ItemRead">
       <DesktopSettings>
         <SourceLocation DefaultValue="https://kyoshi002.github.io/FTBC-Tracker-Addin/commands.html" />
+        <RequestedHeight>250</RequestedHeight>
       </DesktopSettings>
     </Form>
   </FormSettings>
